@@ -10,4 +10,5 @@ Subscription : this lists the several Subscription packs that site offers to it'
 About us: This tells the users the details about the newspaper Bharatvarsh.
 Contact us : This lists the contact details of the Newspapre office.
 There is a scroll up button to that takes you to top on just one click, making it easy for you to navigate webpage and making things fast.
+The host link is https://prabhakaragrawal.github.io/News_website_Bharatvarsh/
 
