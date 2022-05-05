@@ -409,3 +409,21 @@
         
 
     }
+  @media(max-width:400px){
+        .indicators{
+            position: absolute;
+            left: 50%;
+            /* top: 20px; */
+            bottom: 79vw;
+            transform: translateX(-50%);
+        }
+        @media(max-width:200px){
+        .indicators{
+            position: absolute;
+            left: 50%;
+            /* top: 20px; */
+            bottom: 99vw;
+            transform: translateX(-50%);
+        }
+      
+      
